@@ -1,0 +1,3 @@
+summary_path = "./Docs/src/src/SUMMARY.md"
+out_path = "./Docs/src/src/Auto"
+summary_stub_path = "./Docs/src/summary_stub.md"

@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Reflected
+  - Line
+  - FirstTriangle
+  - Arc
+  - SpecialCase
+  - HyperbolicTriangle
+  - Data
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - lines
+  - grid
+  - 'PostProcessing '
+  - Focused
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: grid
+    uniqueID: 2953015649
+    locked: 0
+  - name: lines
+    uniqueID: 417407963
+    locked: 0
